@@ -1,8 +1,8 @@
 Actor,TimeLookedAt
-SpectatorPawn_0,26400.007343
-BP_MotionController_SteamVR_C_1,26400.007343
-BP_MotionController_SteamVR_C_0,26400.007343
-TemplateFloor_6,26400.007343
-1M_Cube10_14,26400.007343
+BP_MotionController_SteamVR_C_1,10.00606
+BP_MotionController_SteamVR_C_0,10.00606
+TemplateFloor_6,10.00606
+1M_Cube10_14,10.00606
+BP_FirstPersonCharacter_C_1,0.064092
 
 
