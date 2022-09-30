@@ -1,8 +1,14 @@
 Actor,TimeLookedAt
-BP_MotionController_SteamVR_C_1,10.00606
-BP_MotionController_SteamVR_C_0,10.00606
-TemplateFloor_6,10.00606
-1M_Cube10_14,10.00606
-BP_FirstPersonCharacter_C_1,0.064092
+BP_MotionController_SteamVR_C_0,8.38912
+TemplateFloor_6,0.968215
+1M_Cube10_14,5.268926
+GrabActor_StaticMesh_Physics6_6,2.003639
+GrabActor_StaticMesh_Physics5_5,1.409695
+Pistol_01_3,14.57207
+GrabActor_StaticMesh_Physics3_3,2.544655
+BP_MotionController_SteamVR_C_1,34.809974
+MeleeBase_C_1,109.258633
+Biene_Character_BP_C_1,5.923696
+lowpolytree_Blueprint_C_0,0.308551
 
 

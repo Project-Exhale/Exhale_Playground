@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.steamvrinput-19764885.unrealeditor.exe",
+			"app_key": "application.generated.ue.steamvrinput-20979098.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/Dokumente/Unreal/VR_Testprojekt_Diss/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/Dokumente/Unreal Projects/Exhale_Playground/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "SteamVRInput-19764885 [UE Editor]"
+					"name": "SteamVRInput-20979098 [UE Editor]"
 				}
 			}
 		}

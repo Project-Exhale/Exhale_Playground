@@ -30,6 +30,28 @@
 					}
 				},
 				{
+					"mode": "button",
+					"path": "/user/hand/left/input/a",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/GestureLeft"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/a",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/GestureRIght"
+						}
+					}
+				},
+				{
 					"mode": "grab",
 					"path": "/user/hand/left/input/grip",
 					"inputs":
@@ -70,28 +92,6 @@
 						"click":
 						{
 							"output": "/actions/main/in/TeleportRight"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/a",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/GestureLeft"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/right/input/a",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/GestureRIght"
 						}
 					}
 				},
@@ -140,28 +140,6 @@
 					}
 				},
 				{
-					"mode": "trackpad",
-					"path": "/user/hand/left/input/trackpad",
-					"inputs":
-					{
-						"position":
-						{
-							"output": "/actions/main/in/TeleportDirectionLeft_X,TeleportDirectionLeft_Y X Y_axis2d"
-						}
-					}
-				},
-				{
-					"mode": "trackpad",
-					"path": "/user/hand/right/input/trackpad",
-					"inputs":
-					{
-						"position":
-						{
-							"output": "/actions/main/in/TeleportDirectionRight_X,TeleportDirectionRight_Y X Y_axis2d"
-						}
-					}
-				},
-				{
 					"mode": "trigger",
 					"path": "/user/hand/right/input/trigger",
 					"inputs":
@@ -180,6 +158,28 @@
 						"pull":
 						{
 							"output": "/actions/main/in/SteamVRBindings axis"
+						}
+					}
+				},
+				{
+					"mode": "trackpad",
+					"path": "/user/hand/left/input/trackpad",
+					"inputs":
+					{
+						"position":
+						{
+							"output": "/actions/main/in/TeleportDirectionLeft_X,TeleportDirectionLeft_Y X Y_axis2d"
+						}
+					}
+				},
+				{
+					"mode": "trackpad",
+					"path": "/user/hand/right/input/trackpad",
+					"inputs":
+					{
+						"position":
+						{
+							"output": "/actions/main/in/TeleportDirectionRight_X,TeleportDirectionRight_Y X Y_axis2d"
 						}
 					}
 				}
@@ -217,5 +217,5 @@
 			]
 		}
 	},
-	"description": "SteamVRInput-19206456"
+	"description": "SteamVRInput-20979098"
 }
