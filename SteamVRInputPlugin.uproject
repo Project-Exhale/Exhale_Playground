@@ -32,14 +32,6 @@
 			]
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "OpenVRExpansionPlugin",
 			"Enabled": true
 		},
@@ -50,6 +42,28 @@
 		{
 			"Name": "AlembicHairImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenXRExpansionPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
 		}
 	]
 }
