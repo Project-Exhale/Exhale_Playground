@@ -1,0 +1,8 @@
+Actor,TimeLookedAt
+BP_MotionController_SteamVR_C_1,10.00606
+BP_MotionController_SteamVR_C_0,10.00606
+TemplateFloor_6,10.00606
+1M_Cube10_14,10.00606
+BP_FirstPersonCharacter_C_1,0.064092
+
+
