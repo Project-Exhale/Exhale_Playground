@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:777a03e8dc41a8d44d02b8d0d5c08ee88f9c7eb140490f6161e96b60b0a670b8
-size 405
+{
+	"name": "Default bindings for Vive Tracker (Right Shoulder)",
+	"controller_type": "vive_tracker_right_shoulder",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"poses": [
+				{
+					"output": "/actions/main/in/tracker_shoulder_right",
+					"path": "/user/shoulder/right/pose/raw",
+					"requirement": "optional"
+				}
+			]
+		}
+	},
+	"description": ""
+}

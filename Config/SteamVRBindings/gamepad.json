@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e79312500b66b62a6a60ee5d0b0b0c0393a45659df3d5b894da24d14a254213d
-size 215
+{
+	"name": "Default bindings for Gamepads",
+	"controller_type": "gamepad",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"sources": []
+		}
+	},
+	"description": ""
+}

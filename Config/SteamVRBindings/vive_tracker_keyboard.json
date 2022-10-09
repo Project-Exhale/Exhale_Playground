@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:250ac7fb3cb5fe7ff36d54cf5ee7240368e17db01e4920a25dec19bb11c86a78
-size 381
+{
+	"name": "Default bindings for Vive Tracker (Keyboard)",
+	"controller_type": "vive_tracker_keyboard",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"poses": [
+				{
+					"output": "/actions/main/in/tracker_keyboard",
+					"path": "/user/keyboard/pose/raw",
+					"requirement": "optional"
+				}
+			]
+		}
+	},
+	"description": ""
+}

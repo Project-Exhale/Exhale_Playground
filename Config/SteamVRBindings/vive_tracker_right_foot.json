@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0d10c2974769e76d501c3f5395850787742a4eec77914829f61fb68336fd748
-size 389
+{
+	"name": "Default bindings for Vive Tracker (Right Foot)",
+	"controller_type": "vive_tracker_right_foot",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"poses": [
+				{
+					"output": "/actions/main/in/tracker_foot_right",
+					"path": "/user/foot/right/pose/raw",
+					"requirement": "optional"
+				}
+			]
+		}
+	},
+	"description": ""
+}

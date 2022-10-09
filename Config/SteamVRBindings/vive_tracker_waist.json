@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3acf2c1de28509e3c381aef696a5855fcc6f535d6480b049896c110bf726f403
-size 369
+{
+	"name": "Default bindings for Vive Tracker (Waist)",
+	"controller_type": "vive_tracker_waist",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"poses": [
+				{
+					"output": "/actions/main/in/tracker_waist",
+					"path": "/user/waist/pose/raw",
+					"requirement": "optional"
+				}
+			]
+		}
+	},
+	"description": ""
+}

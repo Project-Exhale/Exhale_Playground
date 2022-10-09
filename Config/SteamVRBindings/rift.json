@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8da060d20135b4f4463a50da35ef4e684a43cb2e12ed3752ba545d8eb7d2de77
-size 398
+{
+	"name": "Default bindings for Rift Headset",
+	"controller_type": "rift",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"sources": []
+		}
+	},
+	"description": ""
+}

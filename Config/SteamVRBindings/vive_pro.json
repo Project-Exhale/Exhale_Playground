@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c092a8b18b3cbc39d74498140ef6bccc6e030aee8d9a45554f353e38f5bfec8
-size 406
+{
+	"name": "Default bindings for Vive Pro Headset",
+	"controller_type": "vive_pro",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"sources": []
+		}
+	},
+	"description": ""
+}

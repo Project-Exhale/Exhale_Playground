@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8f892760bd1f283731084fac3987ed2d16ad4c856c6c0d27a86382d52ece0c5
-size 389
+{
+	"name": "Default bindings for Vive Tracker (Left Elbow)",
+	"controller_type": "vive_tracker_left_elbow",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"poses": [
+				{
+					"output": "/actions/main/in/tracker_elbow_left",
+					"path": "/user/elbow/left/pose/raw",
+					"requirement": "optional"
+				}
+			]
+		}
+	},
+	"description": ""
+}

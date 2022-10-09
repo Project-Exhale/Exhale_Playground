@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:534cb2530b1183cad1fde212310e88384435c65a6d38a170a87a0007e8753948
-size 412
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vr_playground2-20979098.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Dokumente/Unreal/Unreal Projects/VR_Playground2/VR_Playground2/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "VR_Playground2-20979098 [UE Editor]"
+				}
+			}
+		}
+	]
+}
